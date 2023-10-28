@@ -1,2 +1,12 @@
-hello 
-sample text for git how are you !
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+hello! mod 0.2 
+This is the official Second version. Welcome!, senores and senoritas!
+=======
+hello there!, 
+the This a test Version !. (Will be available only in Stash)
+>>>>>>> Stashed changes
+=======
+hello there!, 
+the This a test Version !. (Will be available only in Stash)
+>>>>>>> Stashed changes
